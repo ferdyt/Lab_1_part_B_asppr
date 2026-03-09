@@ -16,6 +16,7 @@
 Пошук опорного розв'язку:
 
 <img width="438" height="445" alt="image" src="https://github.com/user-attachments/assets/c64584b9-43de-4119-a915-22c9b7e4b45a" />
+
 Пошук оптимального розв'язку:
 
 <img width="599" height="693" alt="image" src="https://github.com/user-attachments/assets/545e7d3b-5e3c-45bc-8ef0-e64636c303f8" />
@@ -24,9 +25,11 @@
 Вхідна симплекс таблиця:
 
 <img width="433" height="150" alt="image" src="https://github.com/user-attachments/assets/0e403d74-cf23-45c1-9404-39af2a8b3d61" />
+
 Пошук опорного розв'язку:
 
 <img width="592" height="624" alt="image" src="https://github.com/user-attachments/assets/b9d1ac9e-23d2-4d18-a5b3-95e32683b002" />
+
 Пошук оптимального розв'язку:
 
 <img width="546" height="891" alt="image" src="https://github.com/user-attachments/assets/8c8f144c-fdc3-4c3d-b4c0-cd39693d096a" />
