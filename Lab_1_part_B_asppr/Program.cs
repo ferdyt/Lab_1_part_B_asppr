@@ -15,6 +15,11 @@ void ShowMatrix(Matrix matrix)
     }
 }
 
+void ShowMaxZ(Matrix matrix)
+{
+    Console.WriteLine($"Max (Z) = {matrix.GetMaxZ}");
+}
+
 void ReverseMatrix()
 {
     Matrix matrix = InputManager.InputMatrix();
@@ -340,6 +345,7 @@ void ShowOptimalSolution()
         string X = GetResultX(optimalSolution);
         Console.WriteLine("\nОптимальний розв\'язок:");
         Console.WriteLine(X);
+        ShowMaxZ(optimalSolution);
     }
 }
 

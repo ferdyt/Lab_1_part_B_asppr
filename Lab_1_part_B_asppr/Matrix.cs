@@ -14,6 +14,7 @@ namespace Lab_1_part_B_asppr
 
         public string[] RowHeaders { get; set; }
         public string[] ColumnHeaders { get; set; }
+        public double GetMaxZ { get => this[this.Rows - 1, this.Columns - 1]; }
 
         public Matrix(double[,] matrix)
         {
