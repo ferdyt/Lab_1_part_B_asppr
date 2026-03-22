@@ -13,13 +13,13 @@
 ![photo_2026-03-09_15-00-47](https://github.com/user-attachments/assets/b6eeda49-a57f-46e1-9317-c223edb123f2)
 
 ### Результат роботи програми:
-Пошук опорного розв'язку:
+Знаки першого рядка були змінені на протилежні. Пошук опорного розв'язку:
 
-<img width="438" height="445" alt="image" src="https://github.com/user-attachments/assets/c64584b9-43de-4119-a915-22c9b7e4b45a" />
+<img width="804" height="634" alt="image" src="https://github.com/user-attachments/assets/6a2e4797-74d9-4657-aa8c-e670c14000c6" />
 
 Пошук оптимального розв'язку:
 
-<img width="599" height="693" alt="image" src="https://github.com/user-attachments/assets/545e7d3b-5e3c-45bc-8ef0-e64636c303f8" />
+<img width="636" height="592" alt="image" src="https://github.com/user-attachments/assets/1290e5d8-15e1-4f78-8448-344e6d0ad1ee" />
 
 ## Тестовий випадок 1
 Вхідна симплекс таблиця:
